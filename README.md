@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="Coding" width="220px" max-height="220px" src="./assets/image-round.jpg" style=" max-width: 100%; margin-bottom:10px; padding:10px" />
+<img align="right" alt="Coding" width="220px" max-height="220px" src="./assets/image-r.png" style=" max-width: 100%; margin-bottom:10px; padding:10px, padding-right:0;" />
 
 <p style="font-size:15px">Tech enthusiast and full-stack web developer, currently exploring the world of DevOps. Pursuing a B.Tech degree in Computer Science and Engineering. Passionate about building robust and scalable web applications.</p>
 
