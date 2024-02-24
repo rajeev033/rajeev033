@@ -23,7 +23,7 @@
 
 
 
-<img title="JavaScript" alt="JavaScript" width="40px" src="./assets/js.png">|<img title="HTML" alt="HTML5" width="40px" src="./assets/html.png">|<img title="CSS" alt="CSS" width="40px" src="./assets/CSS.png">|<img title="java" alt="java" width="40px" src="./assets/java.png">|<img title="C" alt="C" width="40px" src="./assets/C.png">|<img title="cpp" alt="cpp" width="40px" src="./assets/cpp.png">
+<img title="JavaScript" alt="JavaScript" width="40px" src="./assets/js.png">|<img title="HTML" alt="HTML5" width="40px" src="./assets/html.png">|<img title="CSS" alt="CSS" width="40px" src="./assets/css.png">|<img title="java" alt="java" width="40px" src="./assets/java.png">|<img title="C" alt="C" width="40px" src="./assets/c.png">|<img title="cpp" alt="cpp" width="40px" src="./assets/cpp.png">
 |---|---|---|---|---|---|
 
 <img title="React" alt="React" width="40px" src="./assets/react.png">|<img title="node" alt="Node" width="40px" src="./assets/node.png">|<img title="express" alt="express" width="40px" src="./assets/express.png">|<img title="mongo" alt="mongo" width="40px" src="./assets/mongo.png">|<img title="JavaScript" alt="JavaScript" width="40px" src="./assets/postgresql.png">|<img title="tailwind" alt="tailwind" width="40px" src="./assets/tailwind.png">
