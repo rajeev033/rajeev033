@@ -13,7 +13,7 @@
 - 👯 Open to collaborate on **MERN** Stack Projects
 - 🤔 Seeking Assistance with **CI/CD Pipelines**, **Docker** and **Kubernetes**
 - 💬 Ask me about **React.js**, **Express.js** **Node.js**
-- 📫 How to reach me: **[Email](rajeev.s.2403@gmail.com)**, **[X (Twitter)](https://twitter.com/rajeev_s24)**
+- 📫 How to reach me: **[Email](mailto:rajeev.s.2403@gmail.com)**, **[X (Twitter)](https://twitter.com/rajeev_s24)**
  <!--😄 Pronouns: ...
  ⚡ Fun fact: ...-->
 
